@@ -1,0 +1,5 @@
+print("please enter 3 number: ")
+a = input()
+b = input()
+c = input()
+# print("{},{},{}".format(a,b,c))
