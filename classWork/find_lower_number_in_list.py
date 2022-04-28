@@ -1,4 +1,4 @@
-_list = [3, 2, 5, 1]
+_list = [3, 2, 5, 1, 3]
 x = 0
 i = 1
 while i < len(_list):
