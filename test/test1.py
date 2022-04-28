@@ -1,9 +1,8 @@
-numbers = [1,2,3]
-
-x=numbers[0]
-y=numbers[1]
-z=numbers[2]
-
-print(x)
-print(y)
-print(z)
+p = int(input("enter the number: "))
+t = int(input("enter the another number: "))
+s = 1
+i = 0
+while i<t:
+    s *=p
+    i +=1
+print(s)
