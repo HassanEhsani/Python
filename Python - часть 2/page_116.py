@@ -6,4 +6,4 @@ def printBin(n):
         n = n//2
         x = x*10
     print(c)
-printBin(253)
+printBin(66)
