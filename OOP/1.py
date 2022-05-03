@@ -1,5 +1,6 @@
-def hello():
-    print("hello")
-
-x= 1
-print(type(hello))
+class Dog:
+    def bark(self):
+        print("bark")
+d = Dog()
+d.bark()
+print(type(d))
