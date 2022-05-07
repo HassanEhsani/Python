@@ -9,8 +9,8 @@ class Dog(Mammal):
 
 
 class Cat(Mammal):
-   def be_annuying(self):
-       print("annouting")
+    def be_annuying(self):
+        print("annouting")
 
 
 dog1 = Dog()
