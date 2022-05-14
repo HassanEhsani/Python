@@ -1,8 +1,4 @@
-p = int(input("enter the number: "))
-t = int(input("enter the another number: "))
-s = 1
-i = 0
-while i<t:
-    s *=p
-    i +=1
-print(s)
+n = 0
+while n<10:
+    print("hello")
+    n +=3

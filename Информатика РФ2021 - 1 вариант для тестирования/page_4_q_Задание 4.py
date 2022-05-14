@@ -1,4 +1,4 @@
-for s in range(1000):
+for s in range(100):
     k = s
     n = 600
     while n > k:
